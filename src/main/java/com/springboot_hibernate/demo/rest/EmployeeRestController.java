@@ -1,4 +1,4 @@
-package com.springboot_jpa.demo.rest;
+package com.springboot_hibernate.demo.rest;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.springboot_jpa.demo.entity.Employee;
-import com.springboot_jpa.demo.service.EmployeeService;
+import com.springboot_hibernate.demo.entity.Employee;
+import com.springboot_hibernate.demo.service.EmployeeService;
 
 
 
